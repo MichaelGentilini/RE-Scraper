@@ -1,0 +1,22 @@
+{
+  "name": "real-estate-scraper",
+  "version": "1.0.0",
+  "description": "Real Estate web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallasappraiser/RE-Scraper.git"
+  },
+  "author": "Michael Gentilini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dallasappraiser/RE-Scraper/issues"
+  },
+  "homepage": "https://github.com/dallasappraiser/RE-Scraper#readme",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}
